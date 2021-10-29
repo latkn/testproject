@@ -71,3 +71,4 @@ function writeYourGenres () {
 
 console.log(personalMovieDB.movies);
 console.log(personalMovieDB);
+console.log(personalMovieDB.genres);
